@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aboutme</string>
+    <string name="name">DRIOWYA</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempor lectus id purus maximus laoreet. Nullam fringilla lacus egestas ultrices suscipit. Maecenas rhoncus sit amet ipsum eu blandit. Phasellus id varius orci, ac luctus sapien. Sed placerat quis quam facilisis finibus. Vivamus viverra eu risus id tempus. Donec non urna vitae ipsum feugiat venenatis eu sit amet nulla. Suspendisse eget accumsan dui. Sed tempus aliquam efficitur. Cras sem justo, blandit sit amet finibus faucibus, porta eu dui.\n
+
+        Praesent vel euismod odio. Nulla facilisi. Maecenas pellentesque nunc non nisl porta mollis. Fusce in nibh felis. Etiam eget mauris fringilla dui pharetra dictum at quis nunc. In vel volutpat diam. Phasellus nec nisl id arcu lacinia varius. Sed non venenatis magna, nec varius nisi. Nulla sed diam in massa mollis pharetra. Morbi lacinia commodo commodo. Nunc malesuada et metus at hendrerit. Vestibulum congue venenatis elit, eu vehicula risus accumsan eu. In facilisis metus id mauris tempus suscipit. </string>
+    <string name="what_is_your_nikename">What is Your NickName</string>
+    <string name="done">Done</string>
+</resources>
